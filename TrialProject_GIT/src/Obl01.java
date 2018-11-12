@@ -5,7 +5,7 @@ public class Obl01 {
     private String say;
     public void setSay(String gi) {
         this.say = gi;
-        gi="try";
+        gi="try2";
     }
     
     public int getre(){
